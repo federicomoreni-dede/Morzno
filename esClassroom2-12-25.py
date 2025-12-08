@@ -12,3 +12,6 @@ else:
         if n>massimo:
             massimo=n
 print(massimo)
+parola=input("e")
+print(parola[1:-1])
+
